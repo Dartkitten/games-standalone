@@ -32,6 +32,7 @@
 * [Cube Engine](cubeengine)
   * [AssaultCube](cubeengine/assaultcube)
   * [Cube 2: Sauerbraten](cubeengine/cube2)
+* [Daggerfall Enhanced](daggerfall_enhanced)
 * [DDRaceNetwork](ddracenetwork)
 * [Doom](doom)
   * [Zandronum](doom/zandronum)
